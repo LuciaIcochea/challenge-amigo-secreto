@@ -46,6 +46,13 @@
 
 ![como-usar-4](https://github.com/user-attachments/assets/e63e9e5d-98a0-4537-be94-fcd0a9861153)
 
+<h4>Ingresar nombre en blanco</h4>
+<p>En caso que no coloques ningún nobre en el espacio en blanco y hagas click en el botón añadir, surgirá un alert solicitando colocar nombre</p>
+
+![como-usar-5](https://github.com/user-attachments/assets/afe3df57-9688-463b-880e-212d57e3b932)
+
+
+
 <h3>tecnologías-utilizadas</h3>
   <P>Java Scritp</P>
   <P>Html</P>
